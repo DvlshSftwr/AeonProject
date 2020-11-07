@@ -9,7 +9,7 @@ from Gusic import *
 from RandomNumberGenerator import RNG
 from Constants import Const
 
-AEON_TOKEN = 'NzM5MTYyNjY3NTMyNjgxMjMz.XyWc4A.tD5z-8bDV1md8GO4v7CcY8guMlQ'
+AEON_TOKEN = ''
 
 Aeon = commands.Bot(command_prefix='dvl ', description='Fluffy\'s psychotic expiramental multipurpose bot.')
 Aeon.add_cog(Music(Aeon))
